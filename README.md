@@ -11,6 +11,7 @@ This project analyzes pharmaceutical sales data using Python, Pandas, and Matplo
 Download the dataset from Kaggle:
 https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data
 
+
 After downloading, place the file in the following folder structure:
 
 ```
@@ -124,4 +125,5 @@ oladeadebiyi/pharma-sales-analysis`
 * Build dashboard (Power BI or Tableau)
 * Deploy as a web app (Streamlit)
 
----
+---Others
+https://roadmap.sh/projects/pharmaceutical-sales-data
